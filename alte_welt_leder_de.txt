@@ -1,0 +1,1 @@
+ALTE WELT LEDER^"Leichtes Leder";Handwerksmaterial;;;;;;;;^"Mittleres Leder";Handwerksmaterial;;;;;;;;^"Schweres Leder";Handwerksmaterial;;;;;;;;^"Dickes Leder";Handwerksmaterial;;;;;;;;^"Unverwüstliches Leder";Handwerksmaterial;;;;;;;;^"Rohes Tierleder";Handwerksmaterial;;;;;;;;^"Schwerer Balg";Handwerksmaterial;;;;;;;;
