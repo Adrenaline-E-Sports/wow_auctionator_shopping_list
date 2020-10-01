@@ -1,1 +1,1 @@
-BFA ERZE^"Sturmsilbererz";Handwerksmaterial;;;;;;;;^"Geistereisenerz";Handwerksmaterial;;;;;;;;^"Geistereisenbarren";Handwerksmaterial;;;;;;;;^"Osmeniterz";Handwerksmaterial;;;;;;;;^"Moneliterz";Handwerksmaterial;;;;;;;;^"Platinerz";Handwerksmaterial;;;;;;;;
+BFA ERZE^"Geistereisenbarren";Handwerksmaterial;;;;;;;;^"Geistereisenerz";Handwerksmaterial;;;;;;;;^"Moneliterz";Handwerksmaterial;;;;;;;;^"Osmeniterz";Handwerksmaterial;;;;;;;;^"Platinerz";Handwerksmaterial;;;;;;;;^"Sturmsilbererz";Handwerksmaterial;;;;;;;;

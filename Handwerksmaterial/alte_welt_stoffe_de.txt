@@ -1,1 +1,1 @@
-ALTE WELT STOFFE^"Glutseidenstoff";Handwerksmaterial;;;;;;;;^"Windwollstoff";Handwerksmaterial;;;;;;;;^"Froststoff";Handwerksmaterial;;;;;;;;^"Seidenstoff";Handwerksmaterial;;;;;;;;^"Wollstoff";Handwerksmaterial;;;;;;;;^"Leinenstoff";Handwerksmaterial;;;;;;;;
+ALTE WELT STOFFE^"Froststoff";Handwerksmaterial;;;;;;;;^"Glutseidenstoff";Handwerksmaterial;;;;;;;;^"Leinenstoff";Handwerksmaterial;;;;;;;;^"Seidenstoff";Handwerksmaterial;;;;;;;;^"Windwollstoff";Handwerksmaterial;;;;;;;;^"Wollstoff";Handwerksmaterial;;;;;;;;

@@ -1,1 +1,1 @@
-BFA LEDER & KNOCHEN^"Sedimentleder";Handwerksmaterial;;;;;;;;^"Raues Leder";Handwerksmaterial;;;;;;;;^"Sturmbalg";Handwerksmaterial;;;;;;;;^"Schimmerschuppe";Handwerksmaterial;;;;;;;;^"Nebelschuppe";Handwerksmaterial;;;;;;;;^"Blutbefleckter Knochen";Handwerksmaterial;;;;;;;;
+BFA LEDER & KNOCHEN^"Blutbefleckter Knochen";Handwerksmaterial;;;;;;;;^"Nebelschuppe";Handwerksmaterial;;;;;;;;^"Raues Leder";Handwerksmaterial;;;;;;;;^"Schimmerschuppe";Handwerksmaterial;;;;;;;;^"Sedimentleder";Handwerksmaterial;;;;;;;;^"Sturmbalg";Handwerksmaterial;;;;;;;;
