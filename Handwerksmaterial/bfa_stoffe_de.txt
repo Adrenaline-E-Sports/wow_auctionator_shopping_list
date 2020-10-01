@@ -1,1 +1,1 @@
-BFA STOFFE^"Tiefseesatin";Handwerksmaterial/Stoffe;;;;;;;;^"Gischtvernebeltes Leinen";Handwerksmaterial/Stoffe;;;;;;;;^"Nylonfaden";Handwerksmaterial;;;;;;;;^"Vergoldetes Seetuch";Handwerksmaterial;;;;;;;;
+BFA STOFFE^"Bestickter Tiefseesatin";Handwerksmaterial;;;;;;;;^"Gischtvernebeltes Leinen";Handwerksmaterial/Stoffe;;;;;;;;^"Nylonfaden";Handwerksmaterial;;;;;;;;^"Tiefseesatin";Handwerksmaterial/Stoffe;;;;;;;;^"Vergoldetes Seetuch";Handwerksmaterial;;;;;;;;
