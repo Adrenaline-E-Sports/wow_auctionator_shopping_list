@@ -1,0 +1,1 @@
+SKILL ALTE WELT SCHNEIDER^"Leinenstoff";Handwerksmaterial;;;;;;;;^"Magiestoff";Handwerksmaterial;;;;;;;;^"Runenstoff";Handwerksmaterial;;;;;;;;^"Seidenstoff";Handwerksmaterial;;;;;;;;^"Wollstoff";Handwerksmaterial;;;;;;;;

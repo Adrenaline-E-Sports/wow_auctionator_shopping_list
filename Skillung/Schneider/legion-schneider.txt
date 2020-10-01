@@ -1,0 +1,1 @@
+SKILL LEGION SCHNEIDER^"Arkhana";Handwerksmaterial;;;;;;;;^"Blut von Sargeras";Handwerksmaterial;;;;;;;;^"Leysteinerz";Handwerksmaterial;;;;;;;;^"Machtgetränktes Seidengewebe";Handwerksmaterial;;;;;;;;^"Runenfaden aus Katgut";Handwerksmaterial;;;;;;;;^"Scharfer Waldgeistdorn";Handwerksmaterial;;;;;;;;^Shal’doreiseide;Handwerksmaterial;;;;;;;;
